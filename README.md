@@ -6,10 +6,6 @@
 
 EnchantHer-AdultStore is a discreet and empowering online store built with React, designed exclusively for women. Explore a curated selection of premium adult toys, including our top 30 list, for a tasteful and satisfying shopping experience. This project is a client-focused initiative, tailored to meet the unique preferences of our female clientele.
 
-## License
-
-This project is licensed under the [GPL-3.0 License]().
-
 ## Contact
 
 For inquiries or assistance, please contact us at [ardengrahamjacobs@gmail.com].

@@ -6,6 +6,7 @@ const Cards = () => {
   return (
     <div className="cards">
       <h1>Check out these EPIC Deals!</h1>
+      <h1>WEBSITE STILL IN PROCESS WAITING ON AFB APROVAL TO PROCEED WITH PRODUCT SELECTION AND FINALE DISIGN</h1>
       <div className="cards__container">
         <div className="cards__wrapper">
           {/* 1st row */}

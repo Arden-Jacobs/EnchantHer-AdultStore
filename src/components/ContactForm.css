@@ -22,8 +22,7 @@ form h3 {
     margin-bottom: 20px;
 }
 
-form input,
-form textarea {
+form input {
     border: 0;
     margin: 10px 0;
     padding: 20px;
@@ -32,7 +31,7 @@ form textarea {
     font-size: 16px;
 }
 
-form button {
+.button {
     padding: 15px;
     background: #FF5361;
     color: #fff;
